@@ -1,0 +1,5 @@
+compranav V
+move 1 E
+compranav V
+move 2 C
+prox
